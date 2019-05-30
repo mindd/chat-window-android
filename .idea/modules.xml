@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/chat-window-android.iml" filepath="$PROJECT_DIR$/chat-window-android.iml" />
       <module fileurl="file://$PROJECT_DIR$/inappchat/inappchat.iml" filepath="$PROJECT_DIR$/inappchat/inappchat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inappchat/inappchat.iml" filepath="$PROJECT_DIR$/inappchat/inappchat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/live-chat.iml" filepath="$PROJECT_DIR$/live-chat.iml" />
     </modules>
   </component>
 </project>
